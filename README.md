@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning markdown and git
 - 💞️ I’m not currently looking to collaborate
 - 📫 How to reach me:
-  - twitter.com/likebureau
+  - https://twitter.com/likebureau
   - hey-you@likebureau.com
 
 <!---
