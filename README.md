@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning markdown and git
 - 💞️ I’m not currently looking to collaborate
 - 📫 How to reach me:
-  - https://twitter.com/likebureau
+  - https://bsky.app/profile/homogameragenda.com
   - hey-you@likebureau.com
 
 <!---
